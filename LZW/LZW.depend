@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1462975556 source:c:\users\lab\desktop\lzw\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+	<stdlib.h>
+
+1463580797 source:d:\8th term\multimedia\lab\compression algorithms\lzw\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+	<fstream>
+

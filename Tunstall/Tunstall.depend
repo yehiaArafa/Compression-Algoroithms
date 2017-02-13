@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1463516677 source:d:\8th term\multimedia\lab\compression algorithms\tunstall\main.cpp
+	<iostream>
+	<map>
+	<sstream>
+	<fstream>
+	<vector>
+	<math.h>
+

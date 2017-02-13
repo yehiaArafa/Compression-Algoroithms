@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1463354192 source:d:\8th term\multimedia\lab\compression algorithms\rle\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+

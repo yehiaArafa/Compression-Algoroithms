@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1462364310 source:c:\users\lab\desktop\huffman\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<map>
+
+1463508584 source:d:\8th term\multimedia\lab\compression algorithms\huffman\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<map>
+
